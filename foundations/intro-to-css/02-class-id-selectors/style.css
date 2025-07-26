@@ -1,0 +1,19 @@
+.United {
+    background-color: rgb(247, 188, 193);
+    font-family: Verdana, sans-serif, "DejaVu sans";
+}
+
+.Different{
+    font-size: 24px;
+}
+
+#two{
+ color: blue;
+ font-size: 36px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
